@@ -1,9 +1,3 @@
-def add(a:int,b:int):
-    return a+b
-
-def adiciona(a:int,b:int):
-    return a+b
-
 def soma(a:int,b:int):
     return a+b
 
